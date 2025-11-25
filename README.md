@@ -4,7 +4,7 @@ Small web app to manage to-do lists (final project).
 
 ## Live
 - GitHub repo: https://github.com/dimassa01/assesment-tech.git
-- (Setelah deploy) App URL: **PUT YOUR DEPLOY URL HERE**
+- App URL: 
 
 ## Demo credentials (example)
 - Email: admin@test.com
