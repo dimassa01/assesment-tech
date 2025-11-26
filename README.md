@@ -10,7 +10,6 @@ Small web app to manage to-do lists (final project).
 - Email: admin@test.com
 - Password: password
 
-> Make sure you DO NOT include real secrets in repo. Use `.env` locally and set env vars in production.
 
 ---
 
